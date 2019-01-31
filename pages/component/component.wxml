@@ -1,0 +1,5 @@
+<view class='my-class'>
+  <slot name='first' ></slot>
+  <view>这是组件模板！！</view>
+  <slot name='last'></slot>
+</view>

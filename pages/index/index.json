@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "my-component": "../component/component",
+    "custom":"../event/custom",
+    "event": "../event/event",
+    "behavior":"../behaviors/behavior",
+    "parent":"../link/parent",
+    "child":"../link/child",
+    "beh":"../beh/beh"
+  }
+}

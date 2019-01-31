@@ -1,0 +1,4 @@
+<view>
+<slot/>
+<button bindtap='onTap'>看控制台呀~</button>
+</view>

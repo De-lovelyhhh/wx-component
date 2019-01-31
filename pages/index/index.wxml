@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view>
+  <my-component my-class='firstText'>
+    <view slot='first'>这是插入到组件上面的内容</view>
+    <view slot='last'>这是插入到组件下面的内容</view>
+  </my-component>
+  <event bindcustomevent="event2" my-class='event'>
+    <custom bindcustomevent="event1"></custom>
+  </event>
+  <behavior my-class='behavior'/>
+  <parent my-class="link">
+    <child/>
+  </parent>
+  <beh my-class='beh'/>
+</view>

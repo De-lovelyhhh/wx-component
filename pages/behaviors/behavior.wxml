@@ -1,0 +1,4 @@
+<view class="wrapper" class='my-class'>
+  <view>{{myBehaviorProperty}}</view>
+  <view>{{myProperty}}</view>
+</view>

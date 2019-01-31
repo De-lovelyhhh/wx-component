@@ -1,0 +1,3 @@
+<view bindcustomevent="event" class='my-class'>
+<slot/>
+</view>

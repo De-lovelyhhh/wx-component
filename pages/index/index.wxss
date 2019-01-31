@@ -1,0 +1,17 @@
+/**index.wxss**/
+.firstText{
+  font-size: 15px;
+  color: rgb(42, 216, 173);
+}
+.event{
+  margin: 15px;
+}
+.behavior{
+  padding: 20px;
+}
+.link{
+  padding: 0 20px 20px 20px;
+}
+.beh{
+  padding: 0 20px;
+}

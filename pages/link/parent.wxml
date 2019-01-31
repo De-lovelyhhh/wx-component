@@ -1,0 +1,4 @@
+<view class='my-class'>
+  粑粑：hey!
+  <slot/>
+</view>
